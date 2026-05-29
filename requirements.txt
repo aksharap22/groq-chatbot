@@ -1,2 +1,5 @@
 streamlit
-openai
+groq
+pdfplumber
+sentence-transformers
+numpy
