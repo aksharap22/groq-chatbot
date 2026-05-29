@@ -3,3 +3,5 @@ groq
 pdfplumber
 sentence-transformers
 numpy
+
+
