@@ -2,6 +2,4 @@ streamlit
 groq
 pdfplumber
 sentence-transformers
-numpy
-
-
+ 
